@@ -1,0 +1,79 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+      border:5px solid blue;
+      border-radius: 10px;
+      padding: 5px;
+}
+
+header a{
+           text-decoration: none;
+          background-color: Navy;
+          border-radius: 5px;
+          color: White;
+          padding: 5px;
+          margin: x;
+}
+
+header p{
+         color: navy;
+         text-decoration: fat;
+}
+
+header img{
+           padding: 5px;
+}
+
+h1 {
+    text-align: center;
+    color: DarkOrange;
+    border: 5px solid DarkOrchid;
+    border-radius: 20px;
+}
+
+footer p{
+         background-color: Lime;
+}
+
+.Lime{
+      padding-left: 15px;
+}
+
+nav{
+    background-color: LimeGreen;
+    color: white;
+    text-decoration: none;
+}
+
+nav a{ color: white;
+    text-decoration: none;
+    margin: 15px;
+}
+
+.ccs{
+     border: 5px solid chartreuse;
+     border-color: chartreuse;
+     padding: 10px;
+     border-radius: 20px;
+}
+
+.angre{
+       border: 5px solid honeydew;
+       border-radius: 20px;
+}
+
+.angre2{
+        font-size: 25px;
+}
+
+h2{
+        color:navy;
+}
+
+.a{
+  border: 3px solid navy;
+  text-decoration: none;
+  padding: 3px;
+}
